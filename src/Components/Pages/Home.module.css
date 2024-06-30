@@ -1,0 +1,18 @@
+
+.title {
+    text-align: center;
+    background-color: lightskyblue;
+    color: white;
+}
+
+.container {
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
+    margin-top: 20px;
+}
+.image {
+    width:auto;
+    display: inline-block;
+    align-items: center;
+}

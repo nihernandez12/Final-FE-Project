@@ -1,0 +1,25 @@
+
+.title {
+    text-align: center;
+    background-color: lightskyblue;
+    color: white;
+}
+
+.container {
+    padding: 10%;
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
+    margin-top: 20px;
+}
+
+.image {
+    width: 30%;
+    height: auto;
+    max-width: 100%;
+}
+
+.p{
+    text-align: center;
+    
+}

@@ -1,0 +1,28 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 1440px;
+  width: 90%;
+  margin: auto;
+  border:   10px solid lightskyblue;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.submit {
+  color:white;
+  background-color: navy
+}
+
+.delete {
+  color:white;
+  background-color: lightseagreen
+}
+
